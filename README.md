@@ -1,16 +1,16 @@
 UMich Webcams
 =============
 
-These webcams are publically accessible.
+These webcams are publicly accessible.
 
-http://141.212.23.19/view/viewer_index.shtml?id=23187  
-http://141.212.23.28/view/viewer_index.shtml?id=13064  
-http://141.212.23.29/view/viewer_index.shtml?id=27050  
-http://141.212.23.30/view/viewer_index.shtml?id=17658  
-http://141.212.23.35/view/index.shtml  
-http://141.212.23.36/view/index.shtml  
-http://141.212.23.58/view/index.shtml  
-http://141.212.23.37/view/index.shtml  
-http://141.212.23.62/view/index.shtml  
-http://141.212.23.63/view/viewer_index.shtml?id=18135  
-http://141.212.23.64/view/index.shtml  
+[gorguzecam01](http://gorguzecam01.engin.umich.edu/)  
+[gorguzecam02](http://gorguzecam02.engin.umich.edu/)  
+[gorguzecam03](http://gorguzecam03.engin.umich.edu/)  
+[gorguzecam04](http://gorguzecam04.engin.umich.edu/)  
+[wilsonconferencecam](http://wilsonconferencecam.engin.umich.edu/)  
+[wilsonassemblycam](http://wilsonassemblycam.engin.umich.edu/)  
+[wilsonteamcam](http://wilsonteamcam.engin.umich.edu/)  
+[wilsonteamcam2](http://wilsonteamcam2.engin.umich.edu/)  
+[wilsonmobilecam](http://wilsonmobilecam.engin.umich.edu/)  
+[wilsonshopcam](http://wilsonshopcam.engin.umich.edu/)  
+[wilsondynocam](http://wilsondynocam.engin.umich.edu/)  
